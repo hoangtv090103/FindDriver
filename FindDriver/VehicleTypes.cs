@@ -34,12 +34,15 @@ namespace FindDriver
                     {
                         using (MySqlDataReader reader = cmd.ExecuteReader())
                         {
+                            res = "[";
                             while (reader.Read())
                             {
                                 string id = reader["id"].ToString();
                                 string type = reader["type"].ToString();
-                                res += $"{{\"id\": {id}, \"type\": \"{type}\"}}";
+                                res += $"{{\"id\": {id}, \"type\": \"{type}\"}},";
                             }
+                            res = res.TrimEnd(',');
+                            res += "]";
                         }
                     }
                 }
