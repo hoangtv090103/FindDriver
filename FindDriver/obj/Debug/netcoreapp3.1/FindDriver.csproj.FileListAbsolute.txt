@@ -1,0 +1,17 @@
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\FindDriver.comhost.dll
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\FindDriver.deps.json
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\FindDriver.runtimeconfig.json
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\FindDriver.runtimeconfig.dev.json
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\FindDriver.dll
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\FindDriver.pdb
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.csproj.AssemblyReference.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.AssemblyInfoInputs.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.AssemblyInfo.cs
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.csproj.CoreCompileInputs.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.sourcelink.json
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.csproj.Up2Date
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.dll
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.pdb
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netcoreapp3.1\FindDriver.genruntimeconfig.cache

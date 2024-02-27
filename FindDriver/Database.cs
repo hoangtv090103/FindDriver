@@ -1,5 +1,4 @@
 using System;
-using DotNetEnv;
 
 namespace FindDriver
 {
@@ -13,7 +12,6 @@ namespace FindDriver
 
         public MySQLDBConnection()
         {
-            DotNetEnv.Env.Load(".env");
         
             this.server = "35.213.165.89";
             this.uid = "hoangtv";

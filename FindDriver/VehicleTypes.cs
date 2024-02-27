@@ -14,7 +14,7 @@ namespace FindDriver
 
     [ComVisible(true)]
     [Guid("18731562-0B85-47A7-A82A-1571337BB6CB")]
-    [ProgId("FindDriver.VehicleTypesService")]
+    [ProgId("FindDriver.VehicleTypes")]
     public class VehicleTypes : IVehicleTypes
     {
         public string GetVehicleTypes()
@@ -38,7 +38,7 @@ namespace FindDriver
                             {
                                 string id = reader["id"].ToString();
                                 string type = reader["type"].ToString();
-                                res = $"{{\"id\": {id}, \"type\": \"{type}\"}}";
+                                res += $"{{\"id\": {id}, \"type\": \"{type}\"}}";
                             }
                         }
                     }

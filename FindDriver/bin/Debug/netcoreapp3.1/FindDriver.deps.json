@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FindDriver/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "6.9.3"
+        },
+        "runtime": {
+          "FindDriver.dll": {}
+        }
+      },
+      "MySql.Data/6.9.3": {
+        "runtime": {
+          "lib/net45/MySql.Data.dll": {
+            "assemblyVersion": "6.9.3.0",
+            "fileVersion": "6.9.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindDriver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.9.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eoAVWmYnEIvBbA/nPqFB7myCalb1gDnFGre9E/7x31BO9zt5sCvnQsjJ6zRUkeQOUkkdaUDk9INuJ+pFfk9+BA==",
+      "path": "mysql.data/6.9.3",
+      "hashPath": "mysql.data.6.9.3.nupkg.sha512"
+    }
+  }
+}

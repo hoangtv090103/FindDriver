@@ -1,0 +1,11 @@
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netstandard2.1\FindDriver.deps.json
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netstandard2.1\FindDriver.dll
+C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\netstandard2.1\FindDriver.pdb
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.csproj.AssemblyReference.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.AssemblyInfoInputs.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.AssemblyInfo.cs
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.csproj.CoreCompileInputs.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.sourcelink.json
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.dll
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\netstandard2.1\FindDriver.pdb

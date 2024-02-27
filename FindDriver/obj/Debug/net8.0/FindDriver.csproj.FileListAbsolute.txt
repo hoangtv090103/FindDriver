@@ -32,16 +32,10 @@ C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.GeneratedMSBu
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.AssemblyInfoInputs.cache
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.AssemblyInfo.cs
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.csproj.CoreCompileInputs.cache
+C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.sourcelink.json
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.csproj.Up2Date
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.dll
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\refint\FindDriver.dll
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.pdb
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\FindDriver.genruntimeconfig.cache
 C:\Users\hoangtv\FindDriver\FindDriver\obj\Debug\net8.0\ref\FindDriver.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\DotEnv.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\DotNetEnv.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\Sprache.dll
-C:\Users\hoangtv\FindDriver\FindDriver\bin\Debug\net8.0\System.IO.Abstractions.dll
