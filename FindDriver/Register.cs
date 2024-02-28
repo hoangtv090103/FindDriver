@@ -21,8 +21,6 @@ namespace FindDriver
     [ComVisible(true)]
     [Guid("450313F1-235C-47B4-ADAE-ABEAA484DF7C")]
     [ProgId("FindDriver.Register")]
-    [ClassInterface(ClassInterfaceType.None)]
-
     public class Register : IRegister
     {
 
